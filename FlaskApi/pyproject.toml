@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 flask = "*"
 flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 
 [build-system]
